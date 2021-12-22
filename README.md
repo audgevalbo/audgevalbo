@@ -1,0 +1,4 @@
+- 👩🏻‍💻 Hi, I’m @audgevalbo
+- 💭 Exploring how to code creatively, independently
+- 🌱 Learning React & P5
+- 💘 See my work at audreyvalbuena.com 
